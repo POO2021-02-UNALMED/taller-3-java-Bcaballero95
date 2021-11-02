@@ -11,6 +11,11 @@ package taller3.televisores;
  */
 class Control {
     private TV tv;
+
+    public Control() {
+    }
+    
+    
     
     public void turnOn(){
         this.tv.turnOn();
