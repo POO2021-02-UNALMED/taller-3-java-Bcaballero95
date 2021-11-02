@@ -9,7 +9,7 @@ package taller3.televisores;
  *
  * @author Usuario
  */
-class Control {
+public class Control {
     private TV tv;
 
     public Control() {
