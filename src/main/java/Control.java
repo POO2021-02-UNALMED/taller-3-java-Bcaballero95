@@ -28,7 +28,7 @@ class Control {
         this.tv.canalDown();
     }
     
-    public void volumeUp(){
+    public void volumenUp(){
         this.tv.volumenUp();
     }
     
